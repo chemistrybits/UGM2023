@@ -66,6 +66,20 @@ Coffee and tea *will* be provided.
      the discussion there. Even if you don't intend to work on an
      issue yourself (or are yet undecided), any questions, comments
      and thoughts are always useful.
+   - If you have suggestions or complaints about MDAnalysis code
+     or documentation, consider raising an issue on the
+     [MDAnalysis issue tracker](https://github.com/MDAnalysis/mdanalysis/issues)
+     or the [User Guide issue tracker](https://github.com/MDAnalysis/UserGuide/issues/new?assignees=&labels=&projects=&template=user_stories.md&title=)!
+     The User Guide has an issue template called "User stories"
+     that follows this template:
+     **As a *type of user*, I *want to achieve this goal*,
+     so that *reason why*.**
+     
+     If there is anything you wanted to do with your simulation
+     and couldn't figure out (easily) how, please leave us a story there
+     so we can improve our docs! We definitely also appreciate
+     contributions to our documentation as well if you have an idea
+     what you would like to see!
 
 ### At the hackathon
  - **Pick an idea and gather a team!** Use the associated issues (see
@@ -104,7 +118,11 @@ product - you can talk about what you got done, what future plans
 are, and if there's still help wanted.
 
 If you do wish to share, add a slide for you/your team to the 
-shared presentation (*link TBA*) - a template will be provided. 
+shared presentation. We have a
+[Google Slides template](https://docs.google.com/presentation/d/1nezBx545EJlKI2_JRlTIz1L7PO7cdeLOYCcUzi4TsEc/edit#slide=id.g1e811d8524a_0_0),
+also available as a PDF ([./ShowcaseTemplate.pdf](ShowcaseTemplate.pdf)).
+Please submit as in **PDF format** for portability by
+using [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSc80buxTloXq817K3_y5oSUWF1Hs6V8ngjnW3BNmWze7oBK1A/viewform?usp=sf_link).
 Depending how many wish to present, time may be short, so have 
 an elevator pitch summary for your work ready!
 
